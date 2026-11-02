@@ -1,0 +1,15 @@
+{
+  "bpm": 138, "nbars": 19, "seed": 7, "tonic": 57,
+  "chords": [[0, "m"], [8, "M"], [3, "M"], [10, "M"]],
+  "sections": [
+    {"from": 0, "to": 1, "type": "hook"},
+    {"from": 1, "to": 3, "type": "build"},
+    {"from": 3, "to": 9, "type": "drop"},
+    {"from": 9, "to": 11, "type": "breakdown"},
+    {"from": 11, "to": 17, "type": "drop2"},
+    {"from": 17, "to": 19, "type": "outro"}
+  ],
+  "gap_beats": [[2, 3]],
+  "impacts": [[0, 0, 0.55], [13, 0, 0.6], [15, 0, 0.7]],
+  "detune": 0.2, "bright": 1.0, "swing": 0.0
+}

@@ -1,0 +1,7 @@
+node_modules/
+*.wav
+*.mp4
+qa/
+f_*.jpg
+log*.txt
+list.txt
